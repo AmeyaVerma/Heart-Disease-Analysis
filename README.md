@@ -1,2 +1,2 @@
 # Heart-Disease-Analysis
-This repository shows impact of various health factors on heart disease
+This project conducts an in-depth analysis of various factors such as smoking, alcohol consumption, BMI, and other health indicators that influence the risk of heart disease. By leveraging Tableau as a data visualization tool, integrated with a web server, the project provides an interactive and insightful representation of the findings, enabling better data-driven decision-making in healthcare analytics.
